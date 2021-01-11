@@ -1,0 +1,27 @@
+[
+  {
+    "name": "conf",
+    "fileName": "mainConfig.json",
+    "type": "setup"
+  },
+  {
+    "name": "users",
+    "fileName": "users.json",
+    "type": "fast-dynamic"
+  },
+  {
+    "name": "cats",
+    "fileName": "cats.json",
+    "type": "fast-static"
+  },
+  {
+    "name": "objects",
+    "fileName": "objects.json",
+    "type": "slow-static"
+  },
+  {
+    "name": "dogs",
+    "fileName": "dogs.json",
+    "type": "slow-dynamic"
+  }
+]
